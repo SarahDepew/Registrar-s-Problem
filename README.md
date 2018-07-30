@@ -1,1 +1,2 @@
 # CS340-Programming-Project
+Worked on a team of three classmates to solve the registrar’s problem. This problem involved scheduling classes to enroll as many students in preferred classes while eliminating any con icts of times in rooms, professors, or prior scheduled classes. This involved designing and implementing a greedy algorithm that approximated an optimal solution to this NP Hard problem.
